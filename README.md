@@ -52,6 +52,7 @@ Para executar o projeto, você precisará ter instalado:
    - Acesse [https://mvnrepository.com/artifact/com.google.code.gson/gson](https://mvnrepository.com/artifact/com.google.code.gson/gson).
    - Baixe a versão mais recente do arquivo `.jar`.
    - Adicione o arquivo `.jar` ao classpath do projeto.
+   - Ou adicione o gson que já está incorporado no projeto.
 
 4. Compile e execute a classe **conversorDeMoeda.java**.
 
